@@ -5,3 +5,4 @@ Week 1 - Toy Problems
 Week 2 - Vacuum Cleaner Agent
 Week 3 - Cryptoarithemetic Problem
 Week 4 - DFS and BFS
+Week 5 - Best First Seach and A* Search
